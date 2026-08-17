@@ -15,3 +15,12 @@ Inventory Management: Track consumables and reagents with low-stock alerts.
 Reporting: Generate detailed statistical, financial, and performance reports.
 
 Role-Based Access: Multi-tier roles (Admin, Technician, Reviewer, Client) for data security.
+
+## 📞 Contact Me
+
+For any inquiries, feedback, or collaboration opportunities, feel free to reach out:
+
+- **Email:** [osamakamilaliawadiy@gmail.com](mailto:osamakamilaliawadiy@gmail.com)
+- **Phone / WhatsApp:** [+967 770531573](tel:+967770531573)
+
+I'll respond as soon as possible.
